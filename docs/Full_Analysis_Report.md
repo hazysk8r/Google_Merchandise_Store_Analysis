@@ -55,14 +55,13 @@
 
 ### User Acquisition 분석 (지난 30일)
 ![User_acquisition](https://github.com/user-attachments/assets/59aaedd4-83e6-4e18-946b-5e6248ca43e6)
-
-
+---
 1. [Direct]: 17,582명 (76.26%)
 2. [Oragnic Search]: 3,692명 (16.01%)  
 3. [Unassigned]: 685명 (2.97%)
 4. [Cross-network]: 609명 (2.64%)
 5. [Paid Search]: 561X명 (2.43%)
-
+---
 💡 핵심 인사이트:
 - Direct: 17,582명 (76.3%) - 압도적 1위
 - Organic Search: 3,692명 (16.01%) - 예상보다 낮음
