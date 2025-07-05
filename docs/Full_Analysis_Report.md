@@ -53,15 +53,17 @@
 예상 효과:
 "구매 프로세스 개선으로 전환율 20% 향상 목표"
 
+![User_acquisition](https://github.com/user-attachments/assets/c0e40f21-6d51-4ba6-8dba-7eba8938ea81)
+
+
 ### User Acquisition 분석 (지난 30일)
-![User_acquisition](https://github.com/user-attachments/assets/59aaedd4-83e6-4e18-946b-5e6248ca43e6)
----
+
 1. [Direct]: 17,582명 (76.26%)
 2. [Oragnic Search]: 3,692명 (16.01%)  
 3. [Unassigned]: 685명 (2.97%)
 4. [Cross-network]: 609명 (2.64%)
 5. [Paid Search]: 561X명 (2.43%)
----
+
 💡 핵심 인사이트:
 - Direct: 17,582명 (76.3%) - 압도적 1위
 - Organic Search: 3,692명 (16.01%) - 예상보다 낮음
