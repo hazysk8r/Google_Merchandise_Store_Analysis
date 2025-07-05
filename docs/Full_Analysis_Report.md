@@ -40,29 +40,28 @@
 
 🚀 개선 제안:
 
-단기 액션 (1-2주):
+-단기 액션 (1-2주):
 1. 결제 프로세스 점검 및 최적화
 2. 모바일 체크아웃 UX 개선
 3. 할인/프로모션 정책 재검토
 
-중기 전략 (1-3개월):
+-중기 전략 (1-3개월):
 1. 개인화 추천 시스템 강화
 2. 리타겟팅 광고 확대
 3. 고객 피드백 수집 및 분석
 
-예상 효과:
+-예상 효과:
 "구매 프로세스 개선으로 전환율 20% 향상 목표"
-
-![User_acquisition](https://github.com/user-attachments/assets/c0e40f21-6d51-4ba6-8dba-7eba8938ea81)
 
 
 ### User Acquisition 분석 (지난 30일)
+![User_acquisition](https://github.com/user-attachments/assets/8402fbe3-2b5b-4023-88fe-42a893e154e2)
 
-1. [Direct]: 17,582명 (76.26%)
-2. [Oragnic Search]: 3,692명 (16.01%)  
-3. [Unassigned]: 685명 (2.97%)
-4. [Cross-network]: 609명 (2.64%)
-5. [Paid Search]: 561X명 (2.43%)
+- Direct: 17,582명 (76.26%)
+- Oragnic Search: 3,692명 (16.01%)  
+- Unassigned: 685명 (2.97%)
+- Cross-network: 609명 (2.64%)
+- Paid Search: 561X명 (2.43%)
 
 💡 핵심 인사이트:
 - Direct: 17,582명 (76.3%) - 압도적 1위
@@ -84,23 +83,23 @@ Direct가 Organic Search보다 높은 부분은 특이하다.
 
 🔍 흥미로운 점(Google Merchandise Store 특성 상 당연한 부분이지만, 실제 e-commerce 스토어라고 가정):
 
-Direct: 신규 78% vs 재방문 22%
+-Direct: 신규 78% vs 재방문 22%
 → "단골 고객이 아니라 새로운 고객들이 Direct로 많이 온다는 점"
 
-Organic Search: 신규 85% vs 재방문 15%  
+-Organic Search: 신규 85% vs 재방문 15%  
 → "검색을 통한 신규 발견이 활발"
 
-Email: 신규 9% vs 재방문 91%
+-Email: 신규 9% vs 재방문 91%
 → "이메일은 기존 고객 재방문 유도에 효과적"
 
 💎 저평가된 고효율 채널들:
 
-Email (0.19% 점유율):
+**Email (0.19% 점유율)**:
 - 참여시간: 3분 13초 (1위)
 - 세션당 이벤트: 19.5개
 - 작지만 매우 효율적!
 
-Referral (1.05% 점유율):
+**Referral (1.05% 점유율)**:
 - 참여시간: 3분 05초 (2위)  
 - 세션당 이벤트: 20.9개
 - 확대 가능성 높음
@@ -111,12 +110,12 @@ Referral (1.05% 점유율):
 
 🔍 Direct 트래픽 이상 신호:
 
-문제점:
+**문제점**:
 - 76.3% 점유율에 비해 참여도 낮음 (33초)
 - 세션당 이벤트 8.9개로 평균 이하
 - 신규 사용자 비중 78%인데 참여도 낮음
 
-가능한 원인:
+**가능한 원인**:
 1. 봇 트래픽 혼재 가능성
 2. 브랜드 직접 검색 후 접속
 3. 북마크/즐겨찾기 통한 목적성 방문
@@ -141,12 +140,12 @@ Referral (1.05% 점유율):
 
 🔥 일반적인 이커머스와 다른 점:
 
-일반 이커머스 패턴:
+**일반 이커머스 패턴**:
 - Organic Search: 40-50%
 - Direct: 20-30%
 - Social: 15-25%
 
-Google Merchandise Store:
+**Google Merchandise Store**:
 - Direct: 76.3% (압도적!)
 - Organic Search: 16% (낮음)
 - Social: 0.36% (극히 낮음)
