@@ -146,6 +146,6 @@ Direct가 Organic Search보다 높은 부분은 특이하다.
 - Social: 15-25%
 
 **Google Merchandise Store**:
-- Direct: 76.3% (압도적!)
+- Direct: 76.3% 
 - Organic Search: 16% (낮음)
 - Social: 0.36% (극히 낮음)
