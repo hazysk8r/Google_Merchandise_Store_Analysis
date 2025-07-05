@@ -56,6 +56,7 @@
 ### User Acquisition 분석 (지난 30일)
 ![User_acquisition](https://github.com/user-attachments/assets/59aaedd4-83e6-4e18-946b-5e6248ca43e6)
 
+
 1. [Direct]: 17,582명 (76.26%)
 2. [Oragnic Search]: 3,692명 (16.01%)  
 3. [Unassigned]: 685명 (2.97%)
