@@ -144,8 +144,102 @@ Direct가 Organic Search보다 높은 부분은 특이하다.
 - Organic Search: 40-50%
 - Direct: 20-30%
 - Social: 15-25%
-
 **Google Merchandise Store**:
 - Direct: 76.3% 
 - Organic Search: 16% (낮음)
 - Social: 0.36% (극히 낮음)
+  
+### Traffic Acquisition 분석 (지난 30일)
+![Traffic_acquisition](https://github.com/user-attachments/assets/17439581-41ba-476f-90de-8dc7514ecae0)
+
+🔢 채널별 재방문 지수:
+
+Organic Search: 21,679 ÷ 3,692 = 5.87회
+→ "검색 유입 사용자가 평균 6번 재방문!"
+
+Direct: 76,392 ÷ 17,582 = 4.35회  
+→ "직접 접속 사용자는 평균 4번 재방문"
+
+Paid Search: 3,076 ÷ 561 = 5.48회
+Referral: 2,587 ÷ 243 = 10.64회 (가장 많이 재방문)
+
+💡 충격적 발견:
+"소수의 Referral 사용자들이 10번 이상 재방문하면서, 충성도가 가장 높은 traffic channel이라고 할 수 있다.
+
+🏆 참여율 기준 순위:
+
+1. Referral: 80.67% 
+2. Cross-network: 78.21%
+3. Email: 75.19%
+4. Organic Shopping: 70.97%
+5. Paid Search: 71%
+6. Organic Social: 67.15%
+7. Organic Search: 61.14%
+8. Direct: 26.24% 
+
+🚨 흥미로운 점:
+"Direct는 트래픽은 많지만 참여율이 가장 낮음"
+→ 대부분이 빠른 목적성 방문 or 봇 트래픽
+
+📈 사용자 활동도 순위:
+
+1. Unassigned: 33.06개 (특이한 패턴)
+2. Cross-network: 25.93개
+3. Referral: 24.54개  
+4. Paid Search: 22.76개
+5. Email: 21.13개
+6. Organic Shopping: 19.15개
+7. Organic Social: 18.07개
+8. Organic Search: 12.79개
+9. Direct: 8.72개 (최저)
+
+💡 Insight:
+"작은 채널들이 오히려 사용자 활동도가 높음"
+
+⚠️ Direct 트래픽 품질 이슈:
+
+문제점:
+- 68.78% 세션 점유율 vs 26.24% 참여율
+- 평균 참여시간: 27초 (극히 짧음)
+- 세션당 이벤트: 8.72개 (최저)
+
+가능한 원인:
+1. 🤖 대량의 봇/크롤러 트래픽 포함
+2. 📱 앱 → 웹 자동 리디렉션
+3. 🔖 북마크 저장 후 빠른 체크
+
+💡 시급한 개선 필요:
+"Direct 트래픽의 품질 개선이 곧 전체 성과 향상으로 이어질 것으로 보인다."
+
+🎯 투자 우선순위 (품질 × 확장성):
+
+1순위 - 즉시 확대:
+- Referral: 파트너십 프로그램 확대
+- Email: 마케팅 예산 증액 필요
+- Cross-network: 광고 네트워크 확대
+
+2순위 - 점진적 확대:  
+- Paid Search: 품질 좋으니 예산 확대(Email보다는 적은 예산)
+- Organic Social: 소셜미디어 마케팅 강화
+
+3순위 - 현상 유지:
+- Organic Search: 현재 수준 유지하되 품질 개선
+
+최우선 과제:
+- Direct 트래픽 품질 개선 (봇 필터링, UX 개선)
+
+💡 소량 고품질 채널 특징:
+
+발견: 
+"점유율 5% 미만의 작은 채널들이 
+오히려 가장 높은 품질을 보임"
+
+이유:
+1. 명확한 목적성을 가진 사용자들
+2. 관심도가 높아야 접근하는 채널들  
+3. 개인화된 경험 제공 가능
+4. 경쟁이 적어 높은 관심도 유지
+
+💡 전략적 시사점:
+"대형 채널보다 소형 고품질 채널 육성이
+더 효율적일 수 있음을 보여주며, 숨겨진 고가치 채널 발굴의 중요성을 알 수 있다."
