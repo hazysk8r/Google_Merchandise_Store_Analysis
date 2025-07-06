@@ -54,7 +54,7 @@
 "구매 프로세스 개선으로 전환율 20% 향상 목표"
 
 
-### User Acquisition 분석 (지난 30일)
+### User Acquisition 분석
 ![User_acquisition](https://github.com/user-attachments/assets/8402fbe3-2b5b-4023-88fe-42a893e154e2)
 
 - Direct: 17,582명 (76.26%)
@@ -149,7 +149,7 @@ Direct가 Organic Search보다 높은 부분은 특이하다.
 - Organic Search: 16% (낮음)
 - Social: 0.36% (극히 낮음)
   
-### Traffic Acquisition 분석 (지난 30일)
+### Traffic Acquisition 분석
 ![Traffic_acquisition](https://github.com/user-attachments/assets/17439581-41ba-476f-90de-8dc7514ecae0)
 
 🔢 채널별 재방문 지수:
@@ -238,3 +238,6 @@ Direct가 Organic Search보다 높은 부분은 특이하다.
 💡 전략적 시사점:
 "대형 채널보다 소형 고품질 채널 육성이
 더 효율적일 수 있음을 보여주며, 숨겨진 고가치 채널 발굴의 중요성을 알 수 있다."
+
+### Pages and Screens 분석
+
