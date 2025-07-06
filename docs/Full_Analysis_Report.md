@@ -68,7 +68,7 @@
 - Organic Search: 3,692명 (16.01%) - 예상보다 낮음
 - 나머지 모든 채널: 8% 미만
 
-🤔 이상한 점:
+🤔 특이한 점:
 일반적인 이커머스에서는 Organic Search가 1위인데, 
 Direct가 Organic Search보다 높은 부분은 특이하다.
 
