@@ -1,4 +1,4 @@
-# 📊 Google Merchandise Store Exploration Analysis
+# 📊 Google Merchandise Store Exploration 분석
 
 # Funnel 탐색 분석
 ![funnel_exploration](https://github.com/user-attachments/assets/9d9d4343-967e-419e-a092-a798b38c3ad8)
