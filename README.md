@@ -147,7 +147,7 @@ Google Merchandise Store의 GA4 데이터를 활용하여 **전환율 급감 원
 │   ├── Basic_Analysis_Report.md           
 │   ├── Exploration_Analysis_Report.md     
 │   ├── Advertising_Analysis_Report.md     
-├── images/
+├── imgs/
 │   ├── Home_Screen.png
 │   ├── User_Acquisition.png
 │   ├── Traffic_Acquisition.png                
